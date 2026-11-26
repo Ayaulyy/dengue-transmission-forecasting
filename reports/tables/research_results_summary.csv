@@ -1,0 +1,5 @@
+Stage,Model,MAE,RMSE
+Internal (2008–2010),Ridge: history + climate,3.9019681526563113,6.528745401685419
+External later-period (2010–2013),Ridge: history + climate,3.6837564784876133,8.194709753157456
+External later-period (2010–2013),History-only Ridge reference,3.729214010968776,8.409410609021766
+External later-period (2010–2013),Persistence reference,3.8205128205128207,7.56340718229081

@@ -1,0 +1,4 @@
+metric,value
+MAE_gain,0.05171045394904006
+bootstrap_2.5_pct,-0.11307413745163654
+bootstrap_97.5_pct,0.18520543980483056
